@@ -4,7 +4,7 @@ public class Welcome {
 
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to Day 10 problems.");
+		System.out.println("Welcome to day 9 Problems.");
 	}
 
 }
