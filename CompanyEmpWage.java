@@ -12,8 +12,16 @@ public class CompanyEmpWage {
 		this.maxWorkingDays = maxWorkingDays;
 	}
 	
+	public String getCompanyName() {
+		return companyName;
+	}
+
 	public void setTotalEmpWage(int totalEmpWage) {
 		this.totalEmpWage = totalEmpWage;
+	}
+	
+	public int getTotalEmpWage() {
+		return totalEmpWage;
 	}
 
 	@Override
